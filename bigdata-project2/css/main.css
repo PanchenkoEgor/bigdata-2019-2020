@@ -1,0 +1,49 @@
+
+.ui.segment[class*="bottom attached"] {
+    margin: 0 !important;    
+}
+#log_in{
+    height: 100vh;
+}
+#primary_menu a{
+    margin-left: 20px;
+    font-size: 20px;
+    font-weight: bold; 
+}
+.ui.secondary.pointing.menu{
+    margin-bottom: 0;
+    border: none;
+}
+.icon_sign_in {
+    margin: 0px auto 20px auto;
+}
+.middle.aligned.column {
+    margin-top: -8%;
+}
+
+.icon_log_in {
+    margin-bottom: 40px;
+}
+.signup a {
+    text-decoration: none;
+}
+.form-registration h3 {
+    text-align: left;
+}
+
+.form-registration {
+    margin-top: 50px;
+}
+.spacer
+{
+    width: 100%;
+    height: 40px;
+}
+.ui.labeled.blue.icon.button {
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.ui.labeled.blue.icon.button a{
+    color: floralwhite;
+}
+
